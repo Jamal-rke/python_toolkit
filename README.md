@@ -1,5 +1,5 @@
 # python_toolkit
-Developing a Python-based Speech Quality Database Generation Tool
+"Developing a Python-based Speech Quality Database Generation Tool"
 
 description for main.py :
 This script is the main entry point for generating a speech quality dataset with different distortions. It imports the generate_dataset function from the dataset_generator module and provides the necessary input parameters such as the source folder, output folder, noise folder, and the number of files to generate. It also includes an example condition table defining the different distortions and their settings. The generate_dataset function is then called with the provided parameters to generate the dataset.
